@@ -1,1 +1,1 @@
-Porjektet ska gå att köra direkt. Databsasfilen kommer automatiskt att skapas och populeras med tabell, även om den inte finns. Projektet är gjort i .NET 8.0
+Porjektet ska gå att köra direkt. Databsasfilen kommer automatiskt att skapas och populeras med tabell, även om den inte finns. Om inte NuGet package för SQLite finns så är det Microsoft.Data.Sqlite som behöver va installerat i projektet. Projektet är gjort i .NET 8.0
